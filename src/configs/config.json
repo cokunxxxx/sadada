@@ -1,0 +1,33 @@
+{
+  "guildID": "SUNUCU ID",
+  "publicParent": "PUBLİC KATEGORİ ID",
+  "sleepRoom": "AFK ODASININ ID",
+  "taglıAlım": false,
+  "chat": "GENEL CHAT",
+  "teams": ["TAKIM ROLÜ VARSA EKLE YOKSA BOŞ BIRAK"],
+  "specialRoles": { "vip": "VIP ROL ID" },
+  "registration": {
+    "channel": "KAYIT KANAL ID",
+    "brace": " | ",
+    "staffs": ["KAYIT YETKİLİSİ ID"],
+    "manRoles": ["ERKEK ROL ID"],
+    "womanRoles": ["KADIN ROL ID"],
+    "unregRoles": ["KAYITSIZ ROL ID"]
+  },
+  "tag": {
+    "role": "TAG ALINCA VERİLECEK ROL ID",
+    "log": "TAG ALINCA LOG ATACAK KANAL ID",
+    "tag": "TAGINIZI GİRİN",
+    "tag2": "TAGINIZI GİRİN"
+  },
+  "jail": {
+    "channel": "JAİL JANAL ID",
+    "roles": ["JAİL ROLÜ ID"]
+  },
+  "invite": {
+    "channel": "İNVİTE LOG KANAL ID"
+  },
+  "emojis": {
+    "coin": ""
+  }
+}
